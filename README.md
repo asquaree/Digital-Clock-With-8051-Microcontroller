@@ -25,3 +25,5 @@ This digital clock Also Display Date, Month and Year.
 We can also Adjust the Date and Time According to our convenience..*
 
 ![CIRCUIT DIAGRAM](https://user-images.githubusercontent.com/53035125/92695268-d809f880-f365-11ea-9e0e-a3f84e54f7b8.jpg)
+
+![Kiel Simulation](https://user-images.githubusercontent.com/53035125/92697174-90d13700-f368-11ea-8117-f0eec4218c2c.PNG)
