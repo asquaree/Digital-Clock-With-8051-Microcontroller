@@ -23,3 +23,5 @@ and the bits that get SET at 5 minutes limit can be used to program the controll
 some device(s).
 This digital clock Also Display Date, Month and Year.
 We can also Adjust the Date and Time According to our convenience..*
+
+![CIRCUIT DIAGRAM](https://octodex.github.com/images/yaktocat.png)
