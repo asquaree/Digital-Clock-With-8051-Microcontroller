@@ -24,4 +24,4 @@ some device(s).
 This digital clock Also Display Date, Month and Year.
 We can also Adjust the Date and Time According to our convenience..*
 
-![CIRCUIT DIAGRAM](https://octodex.github.com/images/yaktocat.png)
+![CIRCUIT DIAGRAM](D:/Documents/GITHUB/digital.png)
