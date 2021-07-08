@@ -2,7 +2,7 @@
 ## OBJECTIVE:
 **What is a Digital Alarm Clock?**
 
-*A digital clock is a one kind of clock used to display the time in the form of digital includes symbols
+A digital clock is a one kind of clock used to display the time in the form of digital includes symbols
 or numerals. These clocks are frequently connected with electronic drives, but the term
 digital refers only to the LCD display, not to the drive mechanism. The digital clock circuit uses
 the 50-60hz oscillation of AC power.Most digital alarm clocks display the hour of the day in the
@@ -22,7 +22,7 @@ unit aids us in implementing this perfectly. A timer can be used to count the 5 
 and the bits that get SET at 5 minutes limit can be used to program the controller to turn OFF
 some device(s).
 This digital clock Also Display Date, Month and Year.
-We can also Adjust the Date and Time According to our convenience..*
+We can also Adjust the Date and Time According to our convenience..
 </br>
 <h3>CIRCUIT DIAGRAM</h3>
 
